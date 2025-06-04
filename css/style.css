@@ -1,0 +1,8 @@
+body {
+    background-color: #C5DEC8;
+}
+.nav-back{
+    background-color:#3D6151;
+    display:flex;
+    justify-content:space-between;
+}
